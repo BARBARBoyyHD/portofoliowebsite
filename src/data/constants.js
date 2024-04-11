@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/BARBARBoyyHD",
   resume:
-    "https://drive.google.com/file/d/11xQ1LxSvA3w-rpcwKBlBkKvsTwogikKd/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1PivKP2agihy1Mugiz_Xhnqys-ee_-4RT",
   linkedin: "https://www.linkedin.com/in/muhammad-nahrul-hayat-982499239",
   insta: "https://www.instagram.com/notuwithelifter/"
 
